@@ -34,7 +34,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }) => {
         {route === "/e-commerce" ? (
           <>{label} </>
         ) : (
-          <Link href={route}>{label}</Link>
+          <Link href={route} onClick={()=>{setSidebarOpen(false)}}>{label}</Link>
         )}
       </span>
       {label === "E-Commerce" && (
