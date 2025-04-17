@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Logic+ Wireless Mouse",
+    "category": "Mouse",
+    "totalSales": "$1,240"
+  },
+  {
+    "name": "PS Wireless Controller",
+    "category": "Smartphone",
+    "totalSales": "$1,189"
+  },
+  {
+    "name": "Ximi Mechanical Keyboard",
+    "category": "Smartphone",
+    "totalSales": "$1,100"
+  },
+  {
+    "name": "Audia Tech Earphone",
+    "category": "Earphone",
+    "totalSales": "$908"
+  },
+  {
+    "name": "Sams A13 Pro",
+    "category": "Tablet",
+    "totalSales": "$900"
+  },
+  {
+    "name": "Sams A13 5G",
+    "category": "Smartphone",
+    "totalSales": "$870"
+  },
+  {
+    "name": "Jsound P01 TWS",
+    "category": "Earphone",
+    "totalSales": "$870"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Smartphone",
+    "count": 1509,
+    "percentage": "+12%",
+    "bgColor": "#E9FAF7",
+    "img":"/category/smartPhone.svg",
+    "color":"#1A9882"
+  },
+  {
+    "name": "Tablet",
+    "count": 1460,
+    "percentage": "-5%",
+    "bgColor": "#FFF0EA",
+    "img": "/category/tablet.svg",
+    "color": "#EB3D4D"
+  },
+  {
+    "name": "Earphone",
+    "count": 1229,
+    "percentage": "0%",
+    "bgColor": "#E9FAF7",
+    "img": "/category/earphone.svg",
+    "color": "#1A9882"
+  },
+  {
+    "name": "Laptop & PC",
+    "count": 982,
+    "percentage": "+19%",
+    "bgColor": "#FFF0EA",
+    "img": "/category/laptop.svg",
+    "color": "#EB3D4D"
+  },
+  {
+    "name": "Mouse",
+    "count": 791,
+    "percentage": "-25%",
+    "bgColor": "#EAF8FF",
+    "img": "/category/mouse.svg",
+    "color": "#2BB2FE"
+  },
+  {
+    "name": "Hardisk & USB Drive",
+    "count": 679,
+    "percentage": "+11%",
+    "bgColor": "#FFFAE7",
+    "img": "/category/hardisk.svg",
+    "color": "#F9C80E"
+  },
+  {
+    "name": "Camera",
+    "count": 679,
+    "percentage": "+11%",
+    "bgColor": "#E9E9EA",
+    "img": "/category/camera.svg",
+    "color": "#030304"
+  }
+]

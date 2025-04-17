@@ -1,0 +1,381 @@
+[
+  {
+    "id": "order003",
+    "sku": "302002",
+    "category": "Watch",
+    "stock": 48,
+    "product": {
+      "name": "Smartwatch E1",
+      "details": "",
+      "variants": "3 Variants",
+      "image": "/images/product-watch-e1.svg"
+    },
+    "customer": {
+      "name": "Mohammad Karim",
+      "details": "m.karim@domain.org"
+    },
+    "total": 125,
+    "status": "Low Stock",
+    "date": "2023-10-26",
+    "addedDate": "2023-10-26"
+  },
+  {
+    "id": "order004",
+    "sku": "301901",
+    "category": "Audio",
+    "stock": 401,
+    "product": {
+      "name": "Headphone G1 Pro",
+      "details": "",
+      "variants": "1 Variant",
+      "image": "/images/product-headphone-g1.svg"
+    },
+    "customer": {
+      "name": "Linda Blair",
+      "details": "linda.blair@mail.com"
+    },
+    "total": 348,
+    "status": "Published",
+    "date": "2023-10-26",
+    "addedDate": "2023-10-26"
+  },
+  {
+    "id": "order005",
+    "sku": "301900",
+    "category": "Smartphone",
+    "stock": 120,
+    "product": {
+      "name": "iPhone X",
+      "details": "Smartphone",
+      "variants": "4 Variants",
+      "image": "/images/product-iphone-x.svg"
+    },
+    "customer": {
+      "name": "Josh Adam",
+      "details": "josh.adam@server.co"
+    },
+    "total": 607,
+    "status": "Published",
+    "date": "2023-10-25",
+    "addedDate": "2023-10-25"
+  },
+  {
+    "id": "order006",
+    "sku": "301881",
+    "category": "Accessories",
+    "stock": 95,
+    "product": {
+      "name": "Handmade Wallet",
+      "details": "Accessories",
+      "variants": "1 Variant",
+      "image": "/images/product-wallet.svg"
+    },
+    "customer": {
+      "name": "Sarah Connor",
+      "details": "s.connor@skynet.com"
+    },
+    "total": 95,
+    "status": "Published",
+    "date": "2023-10-28",
+    "addedDate": "2023-10-28"
+  },
+  {
+    "id": "order007",
+    "sku": "301643",
+    "category": "Audio Equipment",
+    "stock": 150,
+    "product": {
+      "name": "Gaming Headset",
+      "details": "Audio Equipment",
+      "variants": "1 Variant",
+      "image": "/images/product-headset-gaming.svg"
+    },
+    "customer": {
+      "name": "Alexandra Grey",
+      "details": "alex.g@email.info"
+    },
+    "total": 199,
+    "status": "Published",
+    "date": "2023-10-27",
+    "addedDate": "2023-10-27"
+  },
+  {
+    "id": "order008",
+    "sku": "301600",
+    "category": "Computer Accessories",
+    "stock": 0,
+    "product": {
+      "name": "Laptop Sleeve",
+      "details": "Computer Accessories",
+      "variants": "2 Variants",
+      "image": "/images/product-sleeve.svg"
+    },
+    "customer": {
+      "name": "David Smith",
+      "details": "d.smith@corporate.com"
+    },
+    "total": 59,
+    "status": "Draft",
+    "date": "2023-10-24",
+    "addedDate": "2023-10-24"
+  },
+  {
+    "id": "order009",
+    "sku": "301555",
+    "category": "Audio Equipment",
+    "stock": 112,
+    "product": {
+      "name": "Bluetooth Earbuds",
+      "details": "Audio Equipment",
+      "variants": "3 Variants",
+      "image": "/images/product-earbuds.svg"
+    },
+    "customer": {
+      "name": "Emily Johnson",
+      "details": "emily.j@personal.co"
+    },
+    "total": 89,
+    "status": "Published",
+    "date": "2023-10-26",
+    "addedDate": "2023-10-26"
+  },
+  {
+    "id": "order010",
+    "sku": "301002",
+    "category": "Photography",
+    "stock": 5,
+    "product": {
+      "name": "Digital Camera new1",
+      "details": "Photography",
+      "variants": "1 Variant",
+      "image": "/images/product-camera.svg"
+    },
+    "customer": {
+      "name": "Chris Lee",
+      "details": "chris.lee@photo.pro"
+    },
+    "total": 899,
+    "status": "Low Stock",
+    "date": "2023-10-23",
+    "addedDate": "2023-10-23",
+    "pricing": {
+      "price": 899,
+      "discountType": "No Discount",
+      "discountPercentage": 0,
+      "discountAmount": 0,
+      "taxClass": "Tax Free",
+      "vatAmount": 0
+    },
+    "inventory": {
+      "sku": "",
+      "barcode": "",
+      "quantity": 0,
+      "allowBackorder": false
+    },
+    "variations": [],
+    "shipping": {
+      "isPhysical": true,
+      "weight": "",
+      "height": "",
+      "length": "",
+      "width": ""
+    },
+    "media": {
+      "images": []
+    },
+    "sidebar": {
+      "status": "Low Stock",
+      "visibility": "Published",
+      "category": "",
+      "tags": []
+    }
+  },
+  {
+    "id": "order011",
+    "sku": "301003",
+    "category": "Computer Accessories",
+    "stock": 75,
+    "product": {
+      "name": "Wireless Mouse",
+      "details": "Computer Accessories",
+      "variants": "1 Variant",
+      "image": "/images/product-mouse.svg"
+    },
+    "customer": {
+      "name": "Megan Fox",
+      "details": "megan.f@movies.com"
+    },
+    "total": 45,
+    "status": "Published",
+    "date": "2023-10-28",
+    "addedDate": "2023-10-28"
+  },
+  {
+    "id": "order012",
+    "sku": "301004",
+    "category": "Storage",
+    "stock": 20,
+    "product": {
+      "name": "External Hard Drive",
+      "details": "Storage",
+      "variants": "1 Variant",
+      "image": "/images/product-hdd.svg"
+    },
+    "customer": {
+      "name": "Peter Jones",
+      "details": "p.jones@tech.dev"
+    },
+    "total": 115,
+    "status": "Low Stock",
+    "date": "2023-10-27",
+    "addedDate": "2023-10-27"
+  },
+  {
+    "id": "order013",
+    "sku": "301005",
+    "category": "Home Office",
+    "stock": 60,
+    "product": {
+      "name": "Desk Lamp",
+      "details": "Home Office",
+      "variants": "2 Variants",
+      "image": "/images/product-lamp.svg"
+    },
+    "customer": {
+      "name": "Linda Blair",
+      "details": "linda.blair@mail.com"
+    },
+    "total": 75,
+    "status": "Published",
+    "date": "2023-10-25",
+    "addedDate": "2023-10-25"
+  },
+  {
+    "id": "order014",
+    "sku": "301006",
+    "category": "Kitchenware",
+    "stock": 150,
+    "product": {
+      "name": "Coffee Mug",
+      "details": "Kitchenware",
+      "variants": "5 Variants",
+      "image": "/images/product-mug.svg"
+    },
+    "customer": {
+      "name": "Ilham Budi Agung",
+      "details": "ilham.agung@sample.net"
+    },
+    "total": 25,
+    "status": "Published",
+    "date": "2023-10-28",
+    "addedDate": "2023-10-28"
+  },
+  {
+    "product": {
+      "name": "testing addd",
+      "description": "",
+      "variants": "",
+      "image": null
+    },
+    "sku": "302012",
+    "category": "",
+    "stock": 2,
+    "total": 12,
+    "status": "Low Stock",
+    "addedDate": "2025-04-13",
+    "pricing": {
+      "discountType": "No Discount",
+      "discountPercentage": 0,
+      "discountAmount": 0,
+      "taxClass": "Tax Free",
+      "vatAmount": 0
+    },
+    "inventory": {
+      "barcode": ""
+    },
+    "variations": [],
+    "shipping": {
+      "isPhysical": true,
+      "weight": "",
+      "height": "",
+      "length": "",
+      "width": ""
+    },
+    "sidebar": {
+      "tags": []
+    },
+    "id": "prod_1744556999670_r6lmald"
+  },
+  {
+    "product": {
+      "name": "Handmade Pouch testingggg",
+      "description": "",
+      "variants": "",
+      "image": null
+    },
+    "sku": "302012",
+    "category": "",
+    "stock": 12,
+    "total": 12,
+    "status": "Low Stock",
+    "addedDate": "2025-04-13",
+    "pricing": {
+      "discountType": "No Discount",
+      "discountPercentage": 0,
+      "discountAmount": 0,
+      "taxClass": "Tax Free",
+      "vatAmount": 0
+    },
+    "inventory": {
+      "barcode": ""
+    },
+    "variations": [],
+    "shipping": {
+      "isPhysical": true,
+      "weight": "",
+      "height": "",
+      "length": "",
+      "width": ""
+    },
+    "sidebar": {
+      "tags": []
+    },
+    "id": "prod_1744557638574_7uio63j"
+  },
+  {
+    "product": {
+      "name": "Handmade Pouch1111111111",
+      "description": "",
+      "variants": "",
+      "image": null
+    },
+    "sku": "302012",
+    "category": "",
+    "stock": 14,
+    "total": 12,
+    "status": "Low Stock",
+    "addedDate": "2025-04-13",
+    "pricing": {
+      "discountType": "No Discount",
+      "discountPercentage": 0,
+      "discountAmount": 0,
+      "taxClass": "Tax Free",
+      "vatAmount": 0
+    },
+    "inventory": {
+      "barcode": ""
+    },
+    "variations": [],
+    "shipping": {
+      "isPhysical": true,
+      "weight": "",
+      "height": "",
+      "length": "",
+      "width": ""
+    },
+    "sidebar": {
+      "tags": []
+    },
+    "id": "prod_1744557798969_r499ybo"
+  }
+]

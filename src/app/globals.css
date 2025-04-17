@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme {
+  --color-mint-500: #171717;
+  --color-dark-100: #1d1f2c;
+  --color-grey-100: #777980;
+  --color-green-700: #1a9882;
+  --color-blue-700: #2086bf;
+  --color-light-grey: #858d9d;
+  --color-orange-700: #f86624;
+  --color-blue-light: #2bb2fe;
+  --color-grey-800: #667085;
+  --color-orange-light: #fff0ea;
+  --color-sky-700: #eaf8ff;
+  --color-green-light: #e9faf7;
+  --color-dark-800: #00000080;
+  --color-orange-800: #e0e2e7;
+  --color-blue-800: #2086bf;
+  --color-blue-900: #1a6f9e;
+  --color-blue-90: #2086bffc;
+  --color-blue-80: #eaf8ff;
+}
+
+.sidebar-main {
+  max-height: 100vh;
+  overflow-y: scroll;
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.notifications-count {
+  top: -12px;
+  left: 6px;
+}
+.search-input:focus-visible {
+  outline: none !important;
+}
+
+@keyframes modal-scale-in {
+  from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.animate-modal-scale-in {
+  animation: modal-scale-in 0.2s ease-out forwards;
+}
+
+@media (max-width: 480px) {
+  header {
+    flex-direction: row-reverse;
+  }
+  .profile-group {
+    margin-top: -53px;
+    gap: 5vw;
+  }
+}

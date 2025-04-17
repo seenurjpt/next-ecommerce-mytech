@@ -1,0 +1,30 @@
+.slider-track {
+  top: 8px;
+  height: 4px;
+  background: #e5e7eb;
+  border-radius: 9999px;
+}
+
+.slider-track.slider-track-1 {
+  background: #2086bf;
+}
+
+.slider-thumb {
+  cursor: grab;
+  background-color: #2086bf;
+  border-radius: 9999px;
+  height: 16px;
+  width: 16px;
+  top: 2px;
+  outline: none;
+  border: 2px solid white;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+.slider-thumb:focus {
+  box-shadow: 0 0 0 3px #2086bf;
+}
+
+.slider-thumb:active {
+  cursor: grabbing;
+}

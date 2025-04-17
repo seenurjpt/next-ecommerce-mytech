@@ -1,0 +1,58 @@
+[
+  {
+    "id": "USA",
+    "name": "USA",
+    "customerCount": 1240,
+    "percentage": 80,
+    "color": "#2dd4bf",
+    "growth": 30
+  },
+  {
+    "id": "JPN",
+    "name": "Japan",
+    "customerCount": 980,
+    "percentage": 60,
+    "color": "#fb923c",
+    "growth": 25
+  },
+  {
+    "id": "FRA",
+    "name": "France",
+    "customerCount": 750,
+    "percentage": 49,
+    "color": "#facc15", 
+    "growth": 15
+  },
+  {
+    "id": "DEU",
+    "name": "Germany",
+    "customerCount": 1500,
+    "percentage": 100,
+    "color": "#3b82f6", 
+    "growth": 40
+  },
+  {
+    "id": "KOR",
+    "name": "South Korea",
+    "customerCount": 620,
+    "percentage": 50,
+    "color": "#f43f5e", 
+    "growth": 20
+  },
+  {
+    "id": "GBR",
+    "name": "United Kingdom",
+    "customerCount": 1100,
+    "percentage": 75,
+    "color": "#a78bfa", 
+    "growth": 28
+   },
+   {
+    "id": "AUS", 
+    "name": "Australia",
+    "customerCount": 850,
+    "percentage": 65,
+    "color": "#84cc16",
+    "growth": 22
+   }
+]

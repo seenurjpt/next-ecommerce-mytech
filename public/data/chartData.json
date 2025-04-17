@@ -1,0 +1,16 @@
+{
+  "data": [
+    { "month": "Jan", "sales": 120, "revenue": 100 },
+    { "month": "Feb", "sales": 150, "revenue": 130 },
+    { "month": "Mar", "sales": 180, "revenue": 160 },
+    { "month": "Apr", "sales": 220, "revenue": 200 },
+    { "month": "May", "sales": 250, "revenue": 230 },
+    { "month": "Jun", "sales": 300, "revenue": 270 },
+    { "month": "Jul", "sales": 350, "revenue": 320 },
+    { "month": "Aug", "sales": 400, "revenue": 380 },
+    { "month": "Sep", "sales": 450, "revenue": 420 },
+    { "month": "Oct", "sales": 500, "revenue": 480 },
+    { "month": "Nov", "sales": 550, "revenue": 510 },
+    { "month": "Dec", "sales": 600, "revenue": 580 }
+  ]
+}

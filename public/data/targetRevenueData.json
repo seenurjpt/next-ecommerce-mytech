@@ -1,0 +1,7 @@
+{
+  "data": [
+    { "name": "Target", "average": "loss", "revenue": "20k"},
+    { "name": "Revenue", "average": "profit", "revenue": "16k"},
+    { "name": "Today", "average": "profit", "revenue": "1.5k"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "totalSales": 75500,
+  "percentage": 75.5,
+  "sources": [
+    {
+      "name": "Official Website",
+      "amount": 10000
+    },
+    {
+      "name": "Offline Store",
+      "amount": 10000
+    },
+    {
+      "name": "Amazon Store",
+      "amount": 10000
+    },
+    {
+      "name": "Reseller",
+      "amount": 10000
+    }
+  ]
+}

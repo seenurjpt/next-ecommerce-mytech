@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Total Project",
+    "value": "6,784",
+    "percentage": "10%",
+    "image": "/badge.svg",
+    "grow": "+$150 today"
+  },
+  {
+    "title": "In Progress",
+    "value": "1,920",
+    "percentage": "10%",
+    "image": "/badge1.svg",
+    "grow": "+$150 today"
+  },
+  {
+    "title": "Finished",
+    "value": "4,412",
+    "percentage": "10%",
+    "image": "/badge2.svg",
+    "grow": "+$150 today"
+  },
+  {
+    "title": "Unfinished",
+    "value": "329",
+    "percentage": "10%",
+    "image": "/badge3.svg",
+    "grow": "+$150 today"
+  }
+]
